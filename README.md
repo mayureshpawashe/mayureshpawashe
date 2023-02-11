@@ -4,7 +4,7 @@
 
 ![Logo](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="center"><u><b>Skills</b></u></h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
