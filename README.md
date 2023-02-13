@@ -100,9 +100,9 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
-## Support
+## Reach Me!!
 
-For support, email mayureshpawashe3036@gmail.com 
+email mayureshpawashe3036@gmail.com 
 
 
 ## 🔗 Links
