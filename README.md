@@ -100,9 +100,13 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
-## Reach Me!!
+<h3 align="center">Reach me</h3>
 
-email mayureshpawashe3036@gmail.com 
+<p align="center">
+  <a  href="mailto:mayureshpawashe3036@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+</p>
 
 
 ## 🔗 Links
