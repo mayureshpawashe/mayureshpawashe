@@ -2,7 +2,7 @@
 # Hi, I'm Mayuresh! 👋
 
 
-![Logo]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif))
+![Logo]([(https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif))
 
 <h2 align="center"><u><b>Skills</b></u></h2>
 
