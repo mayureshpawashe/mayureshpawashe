@@ -31,9 +31,7 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="[https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)"
-      alt="c"/>
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
