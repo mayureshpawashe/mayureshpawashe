@@ -1,9 +1,9 @@
 
 # Hi, I'm Mayuresh! 👋
 
-
+<h1>
 ![Logo](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
+</h1>
 <h2 align="center"><u><b>Skills</b></u></h2>
 
 <h3 align="center">Languages</h3>
