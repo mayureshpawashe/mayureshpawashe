@@ -1,11 +1,6 @@
 
 # Hi, I'm Mayuresh! 👋
-
-
-![Logo]([(https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif))
-
 <h2 align="center"><u><b>Skills</b></u></h2>
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
